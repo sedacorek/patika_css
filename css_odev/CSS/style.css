@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+}
+
+.nav {
+    text-align: center;
+    font-size: 16px;
+}
+
+.button {
+    background-color: #C56824; /* Turuncu */
+    border: none;
+    color: #EADEB8;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: #EADEB8;
+    display:inline-block;
+    font-size: 14px;
+  }
+
+.navlist {
+    display: inline;
+    color: #EADEB8;
+}
+
+
+
+h1 {
+    font-size: 40px;
+    color: #A09F57;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+
+
+article {
+    color: #A09F57;
+}
+
+#contact {
+    border-style: groove;
+    margin: 80px 400px;
+    background-color: #C56824;
+    color: #EADEB8;
+}
+
+
+.text-orange, h4 {
+    color: #C56824;
+}
+
+.footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+.footerlist {
+    display: inline;
+    color: #A09F57;
+}
+
+.ml-15 {
+    margin-left: 15px;
+}
